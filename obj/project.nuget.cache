@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "DNs1jzFsP+CN7jGNCibMUMyNOUiqSmeNXoR5nIAnWE2/T2kI5tz9L4nSypeJZJnwa0JqVsjmd3nfbaLdIKJ23w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\testdareadmin\\gitdemo\\gitdemo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\testdareadmin\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
